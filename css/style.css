@@ -129,9 +129,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .tab-wrap .tab-menu li a .menu-text {
   display: block;
-  -webkit-transition: 0.0s;
+  /*-webkit-transition: 0.0s;
   -o-transition: 0.0s;
-  transition: 0.0s;
+  transition: 0.0s;*/
 }
 @media screen and (max-width: 768px) {
   .tab-wrap .tab-menu li a .menu-text {
